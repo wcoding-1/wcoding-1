@@ -7,7 +7,7 @@
 - CSS
 - JAVASCRIPt
 
-- Front-End Technologies:
+# Front-End Technologies:
 - FLEX_BOX
 - GRID
 - REACT
@@ -17,7 +17,7 @@
 - GitHub
 - NODE
 - 
-- Back-End Tecnologies:
+# Back-End Tecnologies:
 - EXPRESS
 - JWT
 - SESSION
