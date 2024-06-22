@@ -15,9 +15,10 @@
 - ROUTER
 - TDD
 - GitHub
-- NODE
+
 - 
 # Back-End Tecnologies:
+- NODE
 - EXPRESS
 - JWT
 - SESSION
