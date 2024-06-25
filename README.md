@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kaba, a full-stack engineer
-- 👀 I’m interested in working in an entry-level.
+- 👀 I’m interested in working as an intern.
 - 🌱 I’m currently learning full-stack engineering
-- 💞️ I’m hoping to work on a wider variety of projects incorporating new technology, like the backend that will improve my skills and positively impact our society.
+- 💞️ I hope to work on a wider variety of projects incorporating new technology, like the backend that will improve my skills and positively impact our society.
 - Lanquages Includes:
 - HTML
 - CSS
